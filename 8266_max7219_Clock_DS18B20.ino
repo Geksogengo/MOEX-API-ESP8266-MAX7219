@@ -58,7 +58,7 @@ void setup() {
  
   //INSERT YOUR SSID AND PASSWORD HERE
 
-  WiFi.begin("Geksogen","zsbKSuatwVDrzUXLw7hu");
+  WiFi.begin("LOGIN","zPASSu");
 
   //CHANGE THE POOL WITH YOUR CITY. SEARCH AT https://www.ntppool.org/zone/@
   
